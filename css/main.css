@@ -382,9 +382,20 @@ h3 {
 }
 
 @media screen and (max-width: 992px){
+	.nav {
+		margin-bottom: 21%;
+	}
+	.offer-cont__titel {
+		font-size: 47px;
+	}
 	.works-carousel .item, .works-carousel .owl-item{
 		width: auto;
 	}
+	.work-tabs 	{
+		font-size: 11px;
+		letter-spacing: 0.2em;
+		margin-top: 36px;
+		}
 	.contributor {
 		margin-top: 17px;
 	}
@@ -412,6 +423,7 @@ h3 {
 		height: 61%;
 		
 	}
+
 	.problems {
 		margin-top: 50px;
 	}
@@ -452,6 +464,7 @@ h3 {
 		width: 70%;
 		height: 42%;
 	}
+
 	.works-wrap__item{
 		width: 100%;
 		margin-bottom: 40px;
