@@ -60,7 +60,7 @@ h3 {
 
 .nav {
 	padding-top: 59px;
-	margin-bottom: 13%;
+	margin-bottom: 10%;
 }
 
 .logo {}
@@ -104,11 +104,12 @@ h3 {
 	display: flex;
     justify-content: center;
 	align-items: center;	
+	
 }
 .video:after {
 	content:'';
 	display: block;
-	background: url(../img/play.svg);
+	background: url('../img/play.svg');
 	width: 65px;
 	height: 65px;
 }
@@ -409,7 +410,7 @@ h3 {
 	.video {
 		width: 35%;
 		height: 61%;
-		box-shadow: -20px 60px 220px rgba(0, 0, 0, 0.44);
+		
 	}
 	.problems {
 		margin-top: 50px;
