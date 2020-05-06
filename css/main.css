@@ -434,7 +434,24 @@ h3 {
 	}
 }
 @media screen and (max-width: 576px){
-
+	.offer-cont__titel{
+		margin-top: 55%;
+		font-size: 47px;
+	}
+	.offer-conr__text {
+		margin-bottom: 10%;
+	}
+	.hero {
+		display: none;
+	}
+	.collage {
+		position: relative;
+		width: 127%;
+	}
+	.collage img {
+		width: 70%;
+		height: 42%;
+	}
 	.works-wrap__item{
 		width: 100%;
 		margin-bottom: 40px;
